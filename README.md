@@ -211,11 +211,11 @@ python-ml-service/                     ← ML service (inside frontend repo)
 
 ```bash
 # Frontend + Node server
-git clone https://github.com/Adithya-charan/SwasthyaSetu.git
+git clone https://github.com/chmythresh/SwasthyaSetu.git
 cd SwasthyaSetu
 
 # Spring Boot backend (in a separate terminal / folder)
-git clone https://github.com/Adithya-charan/swasthyasetu-backend.git
+git clone https://github.com/chmythresh/swasthyasetu-backend.git
 ```
 
 ---
@@ -673,7 +673,7 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 
 **Challa Mythresh**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Adithya--charan-181717?style=flat-square&logo=github)](https://github.com/chmythresh)
+[![GitHub](https://img.shields.io/badge/GitHub-chmythresh-181717?style=flat-square&logo=github)](https://github.com/chmythresh)
 [![Frontend Repo](https://img.shields.io/badge/Repo-SwasthyaSetu_Frontend-2563EB?style=flat-square&logo=github)](https://github.com/chmythresh/swasthyasetu)
 [![Backend Repo](https://img.shields.io/badge/Repo-SwasthyaSetu_Backend-6DB33F?style=flat-square&logo=github)](https://github.com/chmythresh/swasthyasetu-backend)
 
