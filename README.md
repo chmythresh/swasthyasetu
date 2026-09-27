@@ -25,15 +25,15 @@ A modern, **multilingual telemedicine platform** connecting patients and doctors
 
 | Service | URL |
 |---|---|
-| 🖥️ **Frontend** (Vercel) | [adithya-charan-swasthya-setu-fiip.vercel.app](https://adithya-charan-swasthya-setu-fiip.vercel.app/) |
+| 🖥️ **Frontend** (Vercel) | [challa-mythresh-swasthya-setu-fiip.vercel.app](https://swasthyasetu-mythresh.vercel.app/) |
 | ⚙️ **Backend API** (Render) | [swasthyasetu-ijl5.onrender.com](https://swasthyasetu-ijl5.onrender.com) |
 
 ### 📦 Repositories
 
 | Repo | Link |
 |---|---|
-| 🎨 **Frontend + Node Server** | [github.com/Adithya-charan/SwasthyaSetu](https://github.com/Adithya-charan/SwasthyaSetu) |
-| ☕ **Spring Boot Backend** | [github.com/Adithya-charan/swasthyasetu-backend](https://github.com/Adithya-charan/swasthyasetu-backend) |
+| 🎨 **Frontend + Node Server** | [github.com/Challa-Mythresh/SwasthyaSetu](https://github.com/chmythresh/swasthyasetu) |
+| ☕ **Spring Boot Backend** | [github.com/Challa-Mythresh/swasthyasetu-backend](https://github.com/chmythresh/swasthyasetu-backend) |
 
 <br/>
 
@@ -671,11 +671,11 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 
 ## 👤 Author
 
-**Adithya Charan**
+**Challa Mythresh**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Adithya--charan-181717?style=flat-square&logo=github)](https://github.com/Adithya-charan)
-[![Frontend Repo](https://img.shields.io/badge/Repo-SwasthyaSetu_Frontend-2563EB?style=flat-square&logo=github)](https://github.com/Adithya-charan/SwasthyaSetu)
-[![Backend Repo](https://img.shields.io/badge/Repo-SwasthyaSetu_Backend-6DB33F?style=flat-square&logo=github)](https://github.com/Adithya-charan/swasthyasetu-backend)
+[![GitHub](https://img.shields.io/badge/GitHub-Adithya--charan-181717?style=flat-square&logo=github)](https://github.com/chmythresh)
+[![Frontend Repo](https://img.shields.io/badge/Repo-SwasthyaSetu_Frontend-2563EB?style=flat-square&logo=github)](https://github.com/chmythresh/swasthyasetu)
+[![Backend Repo](https://img.shields.io/badge/Repo-SwasthyaSetu_Backend-6DB33F?style=flat-square&logo=github)](https://github.com/chmythresh/swasthyasetu-backend)
 
 ---
 
@@ -683,7 +683,7 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 
 Built with ❤️ for accessible healthcare across India
 
-**Live Demo:** [adithya-charan-swasthya-setu-fiip.vercel.app](https://adithya-charan-swasthya-setu-fiip.vercel.app/)
+**Live Demo:** [Mythresh-Mythresh-swasthya-setu-fiip.vercel.app](https://swasthyasetu-mythresh.vercel.app/)
 
 *स्वास्थ्य सेतु — Bridging Health*
 
